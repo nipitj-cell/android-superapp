@@ -1,0 +1,10 @@
+{
+  "name": "android-superapp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Claude skill: test a ticket inside a SuperApp on an Android emulator, record per-AC clips, upload to Drive",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node tools/superapp-test/superapp_test.test.js"
+  }
+}

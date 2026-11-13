@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+# compiled Swift helpers and local evidence never go in the repo
+tools/superapp-test/ocr
+tools/superapp-test/frames
+*.mp4
+*.png
+.env
